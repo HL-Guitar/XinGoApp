@@ -3,3 +3,6 @@
 of outstanding students and so on. It has opened up a new kind of campus lost and found. The main techniques are gson analysis.
 ![Image text](https://github.com/HL-Guitar/XinGoApp/raw/master/Assert/1.png)
 ![Image text](https://github.com/HL-Guitar/XinGoApp/raw/master/Assert/2.png)
+![Image text](https://github.com/HL-Guitar/XinGoApp/raw/master/Assert/3.png)
+![Image text](https://github.com/HL-Guitar/XinGoApp/raw/master/Assert/4.png)
+![Image text](https://github.com/HL-Guitar/XinGoApp/raw/master/Assert/5.png)
